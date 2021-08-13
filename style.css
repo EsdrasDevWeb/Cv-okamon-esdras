@@ -1,0 +1,324 @@
+
+p
+{
+	font-weight: bold;
+	font-family:Times New Roman, Arial, Helvetica, sans-serif;
+}
+.bloc-principale
+{
+	width: 900px;
+	height: none;
+	margin-left: 200px;
+	padding: 20px;
+	background-color: #e6e7e9;
+	border: 3px solid black;
+}
+.bloc-entete
+{
+	display: flex;
+}
+
+.position-img
+{
+	width:195px;
+	height:205px;
+	border-radius: 100%;
+	margin-left: 50px;
+	border: 3px solid black;
+}
+.img
+{
+	width:195px;
+	height:205px;
+	border-radius: 100%;
+}
+
+.nom
+{
+	width: 500px;
+	height:none;
+	margin-left: 100px;
+}
+h1
+{
+	color: #33cccc;
+}
+h3
+{
+	color: #33cccc;
+	margin-top: 1px;
+	margin-left: 150px;
+}
+.barre
+{
+	width: 300px;
+	height:none;
+	margin-left: 75px;
+	margin-top: -18px;
+	border: 2px solid #ffffff;
+}
+.contact
+{
+	display: flex;
+}
+.groupe_icone
+{
+	display: flex;
+	width: 280px;
+	height: 40px;
+}
+.local
+{
+	margin-top: 10px;
+	width: 150px;
+	height: 15px;
+	font-weight: bold;
+}
+.groupe_icone1
+{
+	display: flex;
+	width: 260px;
+	height: 30px;
+	margin-top: -4px;
+}
+.num
+{
+	margin-top: 5px;
+	width: 150px;
+	height: 15px;
+	font-weight: bold;
+}
+.groupe_icone2
+{
+	display: flex;
+	width: 240px;
+	height: 28px;
+	margin-left: -75px;
+}
+.mail
+{
+	margin-top: 5px;
+	width: 200px;
+	height: 15px;
+	font-weight: bold;
+}
+.groupe_icone3
+{
+	display: flex;
+	width: 260px;
+	height: 30px;
+	margin-top: 5px;
+	margin-left: -75px;
+}
+.fb
+{
+	margin-top: 5px;
+	width: 150px;
+	height: 15px;
+	font-weight: bold;
+}
+
+
+
+.barre2
+{
+	width: 900px;
+	height: 3px;
+	background-color:#33cccc;
+	margin-top: 10px; 
+}
+.bloc-formation
+{
+	display: flex;
+}
+.formation
+{
+	width: 500px;
+	height: none;
+	margin-top: 10px;
+	margin-left: 82px;
+	border-left: 2px solid #33cccc; 
+}
+h2
+{
+	color: #33cccc;
+	margin-top: 100px;
+	margin-left: 50px;
+	font-size: 18px;
+}
+.ecole
+{
+	color:#33cccc;
+	text-align:center;
+}
+.bloc-experirnce-pro
+{
+	display: flex;
+}
+.h2
+{
+	margin-top: 50px;
+}
+.experience
+{
+	width: 500px;
+	height: none;
+	margin-top: 10px;
+	margin-left: 30px;
+	border-left: 2px solid #33cccc;
+}
+.bloc-formation-pro
+{
+	display: flex;
+}
+.formation-pro
+{
+	width: 500px;
+	height: none;
+	margin-top: 10px;
+	margin-left: 35px;
+	border-left: 2px solid #33cccc;
+}
+.h3
+{
+	margin-top: 50px;
+}
+.h4
+{
+	color: #33cccc;
+}
+.conteneur
+{
+	display: flex;
+}
+.competence
+{
+	display: flex;
+}
+.niveau
+{
+	width: 150px;
+	height: 2px;
+	margin-left: 5px;
+	background-color:#33cccc;
+}
+.lim
+{
+	margin-top: -10px;
+}
+.cercle
+{
+	width: 10px;
+	height: 10px;
+	border-radius: 100%;
+	margin-top: -5px;
+	margin-left: -40px;
+	border: 1px solid #33cccc;
+	background-color:#ffffff;
+}
+.niveau1
+{
+	width: 150px;
+	height: 2px;
+	margin-left: 65px;
+	background-color:#33cccc;
+}
+
+.cercle1
+{
+	width: 10px;
+	height: 10px;
+	border-radius: 100%;
+	margin-top: -5px;
+	margin-left: -60px;
+	border: 1px solid #33cccc;
+	background-color:#ffffff;
+}
+.niveau2
+{
+	width: 150px;
+	height: 2px;
+	margin-left: 55px;
+	background-color:#33cccc;
+}
+
+.cercle2
+{
+	width: 10px;
+	height: 10px;
+	border-radius: 100%;
+	margin-top: -5px;
+	margin-left: -35px;
+	border: 1px solid #33cccc;
+	background-color:#ffffff;
+}
+.niveau3
+{
+	width: 150px;
+	height: 2px;
+	margin-left: 35px;
+	background-color:#33cccc;
+}
+
+.cercle3
+{
+	width: 10px;
+	height: 10px;
+	border-radius: 100%;
+	margin-top: -5px;
+	margin-left: -50px;
+	border: 1px solid #33cccc;
+	background-color:#ffffff;
+}
+.bloc-langue
+{
+	margin-left: 100px;
+}
+.niveau6
+{
+	width: 150px;
+	height: 2px;
+	margin-left: 35px;
+	background-color:#33cccc;
+}
+
+.cercle6
+{
+	width: 100px;
+	height: 2px;
+	margin-top: -1px;
+	margin-left: -100px;
+	border: 1px solid #33cccc;
+	background-color:#ffffff;
+}
+.niveau7
+{
+	width: 150px;
+	height: 2px;
+	margin-left: 27px;
+	background-color:#33cccc;
+}
+
+.cercle7
+{
+	width: 20px;
+	height: 2px;
+	margin-top: -1px;
+	margin-left: -20px;
+	border: 1px solid #33cccc;
+	background-color:#ffffff;
+}
+.bloc-langue
+{
+	margin-left: 50px;
+}
+.ps
+{
+	margin-left: 15px;
+	margin-top: -30px;
+
+}
+.qualite
+{
+	margin-top: -30px;
+}
